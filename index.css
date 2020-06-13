@@ -1,0 +1,39 @@
+#left {
+  background: #cfcfcf;
+  width: 25%;
+  height: 1000px;
+  border: 1px solid #d3d3d3;
+  display: inline;
+  float: left;
+  font-size: 20px;
+  padding: 2px;
+}
+
+header img {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 6px;
+  background: white;
+}
+.heading-2 {
+  padding: 2px;
+  text-underline-position: below;
+}
+.heading-3 {
+  padding: 2px;
+}
+.heading-4 {
+  padding: 2px;
+}
+#right {
+  background: white;
+  width: 73%;
+  height: 1000px;
+  border: 1px solid whitesmoke;
+  display: inline;
+  float: right;
+  font-size: 25px;
+  margin: 2px;
+  padding: 2px;
+}
